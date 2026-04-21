@@ -1,15 +1,12 @@
-# 🗺 Lindiwe's Data Science Portfolio
+# Data Science Portfolio
 
-Welcome to my data science portfolio! Here I showcase my projects across machine learning, data analysis, and applied data science.
 
----
-
-## 📚 Table of Contents
+## Table of Contents
 - [Machine Learning](#machine-learning)
 - [Data Analysis](#data-analysis)
 - [Data Ethics](#data-ethics)
 
----
+
 
 # Machine Learning
 
@@ -23,7 +20,7 @@ Welcome to my data science portfolio! Here I showcase my projects across machine
 
 | Project | Tools | Description |
 |---|---|---|
-|  [Data Ethics & Synthetic Data](LINK_HERE) | Python, CRISP-DM | Analysed ethical risks and generated synthetic datasets to simulate bias |
+|  [Data Ethics & Synthetic Data](LINK_HERE) | Python, CRISP-DM | Analysed ethical risks regarding the use of synthetic datasets |
 
 ---
 
