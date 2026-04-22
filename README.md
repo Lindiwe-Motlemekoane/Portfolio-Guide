@@ -12,7 +12,7 @@
 
 | Project | Tools | Description |
 |---|---|---|
-|  [ECG Classification](https://github.com/Lindiwe-Motlemekoane/ECG-heartbeat-classification) | Python, Scikit-learn | Built ML models (Decision Trees, Random Forest) with PCA for dimensionality reduction |
+|  [ECG Classification](https://github.com/Lindiwe-Motlemekoane/ecg-heartbeat-classification) | Python, Scikit-learn | Built ML models (Decision Trees, Random Forest) with PCA for dimensionality reduction |
 
 ---
 
