@@ -12,7 +12,7 @@
 
 | Project | Tools | Description |
 |---|---|---|
-|  [ECG Classification](LINK_HERE) | Python, Scikit-learn | Built ML models (Decision Trees, Random Forest) with PCA for dimensionality reduction |
+|  [ECG Classification](https://github.com/Lindiwe-Motlemekoane/ECG-heartbeat-classification) | Python, Scikit-learn | Built ML models (Decision Trees, Random Forest) with PCA for dimensionality reduction |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Project | Tools | Description |
 |---|---|---|
-|  [Data Ethics & Synthetic Data](LINK_HERE) | Python, CRISP-DM | Analysed ethical risks regarding the use of synthetic datasets |
+|  [Youtube Engagement Data and Ethics](https://github.com/Lindiwe-Motlemekoane/Youtube-Engagement-Ethics-project) | Python, CRISP-DM | Analysed ethical risks regarding the use of synthetic datasets |
 
 ---
 
