@@ -28,4 +28,4 @@
 
 | Project | Tools | Description |
 |---|---|---|
-| [AI Clinical Notes System](LINK_HERE) | Python | Processed and structured conversational data into usable formats |
+| [AI Clinical Notes System](https://github.com/Lindiwe-Motlemekoane/hackathon) | Python | Processed and structured conversational data into usable formats |
